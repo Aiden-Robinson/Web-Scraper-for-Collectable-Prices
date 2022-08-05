@@ -1,5 +1,5 @@
 # Web-Scraper-for-Collectable-Prices
-The goal of project was to save me the time of indiviudally checking the prices of various colletable prices I track. In this demonstration I am tracking the prices of Charizard Pokemon cards I own.
+The goal of project was to save me the time of indiviudally checking the prices of various colletable prices I track. In the code, I have several links to cards that I want to keep an eye on. In this demonstration I am tracking the prices of Charizard Pokemon cards I own.
 
 `Skills:` Beautiful Soup 4, Pandas, Python
 
