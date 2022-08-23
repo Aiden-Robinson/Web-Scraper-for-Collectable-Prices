@@ -6,7 +6,7 @@ The goal of project was to save me the time of indiviudally checking the prices 
 ![Webscraping](https://user-images.githubusercontent.com/106715980/182493441-1cf482c9-b0ae-4b4c-9117-3abb3a1124bc.png)
 
 ## Working with HTML code
-I used Beautiful Soup 4, a python library for HTML parsing which sent an HTTP request to obtain the HTML code from all the websites. I learned some basic HTML tree structuring and used built-in functions to navigate thorugh classes and tags in order to isolate the information I needed.
+I used Beautiful Soup 4, a python library for HTML parsing which sent an HTTP request to obtain the HTML code from all the websites. I learned some basic HTML tree structuring and used built-in functions to navigate through classes and tags in order to isolate the information I needed.
 
 ![HTML example](https://user-images.githubusercontent.com/106715980/182493862-4238c070-fca2-46f4-b17f-0dab00147444.png)
 
