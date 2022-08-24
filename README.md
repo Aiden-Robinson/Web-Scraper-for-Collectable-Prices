@@ -14,7 +14,7 @@ I used Beautiful Soup 4, a python library for HTML parsing which sent an HTTP re
 
 I used several python functions like `.split()` and `.strip()` in order to fully isolate the information I needed. I iterated thorugh each URL and appended the name of the card and price to their respective lists. Both lists were then sorted in descending order of price. 
 
-```
+``` Python
 card_prices, card_names= zip(*sorted(zip(card_prices,card_names)
 ```
 sorts both lists by price
